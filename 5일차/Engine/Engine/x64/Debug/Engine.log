@@ -1,0 +1,29 @@
+﻿  Animation.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\Animation.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  Application.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\Application.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  Console.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\Console.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  GameScene.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\GameScene.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  InputManager.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\InputManager.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  main.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\main.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  MainScene.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\MainScene.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  Object.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\Object.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  Scene.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\Scene.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  SceneManager.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\SceneManager.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  SoundManager.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\SoundManager.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  Sprite.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\Sprite.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  stdafx.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\stdafx.cpp(3,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  TextureManager.cpp
+D:\20402 박선우\2020-GameProgramming\5일차\Engine\Engine\TextureManager.cpp(1,10): fatal error C1083: 미리 컴파일된 헤더 파일을 열 수 없습니다. 'x64\Debug\Engine.pch': No such file or directory
+  코드를 생성하고 있습니다...
